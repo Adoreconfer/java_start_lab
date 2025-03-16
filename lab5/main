@@ -1,0 +1,25 @@
+//        Person person = new Person(); //obiekt klasy instancja klasy
+//        person.firstName = "A";
+//        person.lastName = "B";
+//        System.out.println(person.PersonData());
+//        person.View();
+//
+//        Person person1 = new Person("Jan", "Nowak", 23, "34234", "Informatyka");
+//        person1.View();
+//        Person person2 = new Person("Jan", "Kowalski");
+//        person2.View();
+
+//        person.setFirstName("Jan");
+//        person.View();
+//        System.out.println(person.toString());
+//
+//        String name  = "Ala ma kota";
+//        boolean result = name instanceof String;
+//        System.out.println("Zmienna name jest instncja klasy String? "+ result);
+//        boolean result1 = person instanceof Person;
+//        System.out.println("Objekt person jest instncja klasy Person? "+ result1);
+//        Point point = new Point();
+//        Person person1 = new Person("Jan", person.adres.ulica="afaf");
+//
+//        System.out.println(person.adres.ulica);
+//        System.out.println(LocalDate.now());
